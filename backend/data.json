@@ -1,0 +1,165 @@
+{
+  "flowers": [
+    {
+      "id": 1,
+      "name": "Роза",
+      "category": "Букеты",
+      "price": 500,
+      "image": "https://hotynec.sellflower.ru/wa-data/public/shop/products/67/04/467/images/613/613.750x0.webp",
+      "description": "Красная роза с бархатными лепестками"
+    },
+    {
+      "id": 2,
+      "name": "Тюльпан",
+      "category": "Цветы",
+      "price": 300,
+      "image": "https://i.pinimg.com/originals/b1/ac/57/b1ac57a8303ffac34e1f459630ca91fd.jpg",
+      "description": "Яркие весенние тюльпаны"
+    },
+    {
+      "id": 3,
+      "name": "Орхидея",
+      "category": "Комнатные",
+      "price": 400,
+      "image": "https://i.pinimg.com/736x/fa/87/0f/fa870fe7d8cc9954681b63e9a99539db.jpg",
+      "description": "Элегантная белая орхидея"
+    },
+    {
+      "id": 4,
+      "name": "Пион",
+      "category": "Букеты",
+      "price": 350,
+      "image": "https://main-cdn.sbermegamarket.ru/big1/hlr-system/136/230/781/925/192/6/100064401698b0.jpg",
+      "description": "Нежный ароматный пион розового цвета"
+    },
+    {
+      "id": 5,
+      "name": "Гортензия",
+      "category": "Букеты",
+      "price": 450,
+      "image": "https://i.pinimg.com/736x/6a/8b/c8/6a8bc80e4185305d3ad9a1cfb49ced98.jpg",
+      "description": "Элегантная голубая гортензия"
+    },
+    {
+      "id": 6,
+      "name": "Лилия",
+      "category": "Цветы",
+      "price": 320,
+      "image": "https://vambuket.by/wp-content/uploads/2023/05/42c979aa-a510-4d86-b226-c149f1551332.jpeg",
+      "description": "Ароматная белая лилия"
+    },
+    {
+      "id": 7,
+      "name": "Нарцисс",
+      "category": "Цветы",
+      "price": 280,
+      "image": "https://imperyiacvetov.ru/wa-data/public/shop/products/05/15/1505/images/1971/1971.750x0.jpg",
+      "description": "Солнечный нарцисс ярко-желтого цвета"
+    },
+    {
+      "id": 8,
+      "name": "Сирень",
+      "category": "Букеты",
+      "price": 300,
+      "image": "https://avatars.mds.yandex.net/get-mpic/5219097/2a0000018b0f76b26ffbdf9acd4d1e1b3e52/orig",
+      "description": "Ароматная сирень лилового цвета"
+    },
+    {
+      "id": 9,
+      "name": "Подснежник",
+      "category": "Цветы",
+      "price": 200,
+      "image": "https://img.freepik.com/premium-photo/delicate-snowdrops-ice-background-with-martisor-talisman_875825-39236.jpg",
+      "description": "Нежный белый подснежник"
+    },
+    {
+      "id": 10,
+      "name": "Каллы",
+      "category": "Букеты",
+      "price": 380,
+      "image": "https://sankt-peterburg.floristum.ru/uploads/products/632x632/451/p451_1583343883_18285.jpg",
+      "description": "Стильные каллы для особых случаев"
+    },
+    {
+      "id": 11,
+      "name": "Фрезия",
+      "category": "Цветы",
+      "price": 290,
+      "image": "https://million-buketov.ru/thumb/2/dqCXeSifTYx7q0KOtsrGxQ/r500/d/romantic_spring_bouquet_of_freesia_flo_0.jpg",
+      "description": "Яркая фрезия с нежным ароматом"
+    },
+    {
+      "id": 12,
+      "name": "Астра",
+      "category": "Цветы",
+      "price": 270,
+      "image": "https://avatars.mds.yandex.net/i?id=b60f52112c0c300f3e0e2ce02ab819ef_l-4935529-images-thumbs&n=13",
+      "description": "Радужные астры для летнего настроения"
+    },
+    {
+      "id": 13,
+      "name": "Гиацинт",
+      "category": "Букеты",
+      "price": 310,
+      "image": "https://avatars.mds.yandex.net/get-mpic/11900957/2a00000195275502ba7c3ea4bbfb6669ab8f/orig",
+      "description": "Аоматный синий гиацинтр"
+    },
+    {
+      "id": 14,
+      "name": "Ирис",
+      "category": "Цветы",
+      "price": 330,
+      "image": "https://i.pinimg.com/736x/a3/76/2c/a3762cc435ddec28f3db0bd493b4c526.jpg",
+      "description": "Грациозный ирис фиолетового цвета"
+    },
+    {
+      "id": 15,
+      "name": "Лаванда",
+      "category": "Букеты",
+      "price": 300,
+      "image": "https://main-cdn.sbermegamarket.ru/big1/hlr-system/198/416/193/951/410/25/100068315913b0.jpg",
+      "description": "Ароматная лаванда для уюта дома"
+    },
+    {
+      "id": 16,
+      "name": "Анемона",
+      "category": "Цветы",
+      "price": 320,
+      "image": "https://avatars.mds.yandex.net/i?id=ceb879c54697046d5b1872bfda5d36d8_l-4454238-images-thumbs&n=13",
+      "description": "Красная анемона с черной серединкой"
+    },
+    {
+      "id": 17,
+      "name": "Ромашка",
+      "category": "Цветы",
+      "price": 250,
+      "image": "https://www.malina66.ru/upload/iblock/cea/big-shlyapnaya-korobka-luchiki-iz-.jpg",
+      "description": "Веселая бело-желтая ромашка"
+    },
+    {
+      "id": 18,
+      "name": "Плюмерия",
+      "category": "Комнатные",
+      "price": 400,
+      "image": "https://solnsad.ru/image-kom-zveti/87_339.jpg",
+      "description": "Экзотическая плюмерия с ароматом тропиков"
+    },
+    {
+      "id": 19,
+      "name": "Бегония",
+      "category": "Комнатные",
+      "price": 350,
+      "image": "https://i.pinimg.com/originals/90/69/3e/90693e1bbc69917bd7fbd4a164adc3f8.jpg",
+      "description": "Яркая бегония для дома"
+    },
+    {
+      "id": 20,
+      "name": "Камелия",
+      "category": "Комнатные",
+      "price": 420,
+      "image": "https://p.turbosquid.com/ts-thumb/Yr/mTkRVx/77/camellia_flower_with_chocolate_box_collection_024/jpg/1739763623/1920x1080/fit_q87/5fc8a78171b228d5ce76fc9dd7319a7eebc2d1b8/camellia_flower_with_chocolate_box_collection_024.jpg",
+      "description": "Элегантная камелия с нежными лепестками"
+    }
+  ],
+  "orders": []
+}
